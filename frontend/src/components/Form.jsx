@@ -31,7 +31,7 @@ const Form = () => {
     if (!validateForm()) return;
 
     try {
-      await axios.post("http://localhost:5000/api/submit", formData);
+      await axios.post("https://fresh-backend-942x.onrender.com/api/submit", formData);
       alert("Form submitted successfully!");
       setFormData({ name: "", email: "", message: "" });
     } catch (error) {
