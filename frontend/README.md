@@ -7,10 +7,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-fro the frontend
+for the frontend
   ### `npm install`
   ### `npm run dev`
-fro the backend, create a .env file and under that create a PORT=5000, MONGO_URL=, OPENAI_API_KEY=
+for the backend, create a .env file and under that create a PORT=5000, MONGO_URL=, OPENAI_API_KEY=
 ### `Npm install`
 ### `npm run dev`
 
